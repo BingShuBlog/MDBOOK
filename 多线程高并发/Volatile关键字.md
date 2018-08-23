@@ -1,0 +1,3 @@
+# Volatile关键字
+
+volatile概念：volatile关键字的主要作用是使变量在多个线程间可以见
